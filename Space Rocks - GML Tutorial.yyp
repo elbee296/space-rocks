@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "2e0bb71e-a54f-4acf-9162-0d3d5b25a938",
+            "Value": {
+                "id": "bdcddedb-404e-4b92-850d-c6f43f66653d",
+                "resourcePath": "objects\\object_debris\\object_debris.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3dfbeae8-db2a-47b8-b2da-93c07daaab39",
             "Value": {
                 "id": "1ad9ef10-cca7-4252-82bc-8ed0b430a607",

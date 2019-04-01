@@ -18,5 +18,9 @@ else if (sprite_index == sprite_medasteroid)
 		new_asteroid.sprite_index = sprite_smallasteroid;
 	}
 }
+repeat(10)
+{
+	instance_create_layer(x, y, "Instances", object_debris);
+}
 }
 
