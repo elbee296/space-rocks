@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "02ec9243-db12-45a2-9ee4-2f6cdc9cec7d",
+            "Value": {
+                "id": "772e3649-4d59-44b2-8485-2d040ef9db04",
+                "resourcePath": "rooms\\roomstart\\roomstart.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "05a38448-896a-4344-b852-b24f675ccf12",
             "Value": {
                 "id": "3cc91db1-814c-410b-a0dd-992a772e59c5",
@@ -68,6 +76,22 @@
                 "id": "bdcddedb-404e-4b92-850d-c6f43f66653d",
                 "resourcePath": "objects\\object_debris\\object_debris.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2f534dac-e829-40b9-9e45-cf8cf95d2ff1",
+            "Value": {
+                "id": "01233232-d618-4e2f-b400-4fa77f3ba7e1",
+                "resourcePath": "fonts\\fnt_text\\fnt_text.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "3ceee8f3-c7a5-4da4-9d44-b06b10b66b50",
+            "Value": {
+                "id": "85620689-cd8c-40cc-b271-ddcb5c5783af",
+                "resourcePath": "rooms\\roomwin\\roomwin.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -170,7 +194,7 @@
             "Key": "6e32c410-76fd-4f69-8b95-514750eb2b55",
             "Value": {
                 "id": "20ce7888-b422-4ffe-adff-342569e67d78",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\roomgame\\roomgame.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -204,6 +228,14 @@
                 "id": "c406eaf2-53c5-4c71-be36-030c25721840",
                 "resourcePath": "sprites\\sprite_hugeasteroid\\sprite_hugeasteroid.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "89c37ace-62df-4d75-a761-41e837f8a4e9",
+            "Value": {
+                "id": "596e6744-c985-4023-8d03-6acd1aebe235",
+                "resourcePath": "rooms\\roomgameover\\roomgameover.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
