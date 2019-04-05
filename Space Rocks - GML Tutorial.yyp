@@ -271,11 +271,27 @@
             }
         },
         {
+            "Key": "a6e88b49-6825-4307-aef8-4526667ab956",
+            "Value": {
+                "id": "c0b24095-a06c-41e4-b5bf-948b4e661394",
+                "resourcePath": "sounds\\snd_lose\\snd_lose.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "ab6f1af7-0926-495b-b82b-e2b203f44a05",
             "Value": {
                 "id": "cbfebdd7-4cbd-4083-a61c-c98220f43a43",
                 "resourcePath": "sprites\\sprite_ship\\sprite_ship.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "be4a2fb9-dfea-46c7-bf37-f0e2613d2bd8",
+            "Value": {
+                "id": "9940d8e6-a7f5-41c1-b063-7bb0f51c4e2b",
+                "resourcePath": "sounds\\snd_win\\snd_win.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -287,11 +303,35 @@
             }
         },
         {
+            "Key": "ca91cec1-9ec4-4533-b2aa-e111e4227c52",
+            "Value": {
+                "id": "16b28fc6-21b1-416c-b84a-1db5fed098d4",
+                "resourcePath": "sounds\\snd_die\\snd_die.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "af069a79-b3ca-4fee-a3a6-c02edfb7195e",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d4bac336-3246-49c7-9447-83a264e5d208",
+            "Value": {
+                "id": "cfb4b292-c107-4ec3-9d6b-f3bccf7de171",
+                "resourcePath": "sounds\\msc_song\\msc_song.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "ea097f79-a111-4d27-a47b-e93175bdbb76",
+            "Value": {
+                "id": "e8e8eff4-3b3f-4119-bb18-1756b996e078",
+                "resourcePath": "sounds\\snd_zap\\snd_zap.yy",
+                "resourceType": "GMSound"
             }
         },
         {
